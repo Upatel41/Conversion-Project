@@ -5,17 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel= "stylesheet" type= "text/css" href= "/static/style.css">
-    <title>Kilometer To Miles</title>
+    <title>Kilometers to Miles</title>
 </head>
 <body>
     <div class="main-container">
-        <h1 class="page-header">Kilometer To Miles</h1>
+        <h1 class="page-header">Kilometers to Miles</h1>
         <form action="/kimtomi" method="post">
             <input type="number" step="any" name="kilometer" min=0 required>
             <button type="submit">Convert</button>
         </form>
         {% if result %}
-            <h2>The Distance in miles is : {{ result }}</h2>
+            <h2>The distance in miles is : {{ result }}</h2>
         {% endif %}
     </div>
 </body>
