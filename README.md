@@ -2,7 +2,7 @@
 # This project is a HTML webpage that converts miles to kilometers and kilometers to miles.
 # All files for this project are in the calc 2 folder
 
-# The first png picture is the main webpage of the project
+# The screenshot belowis shows the main webpage of the project
 
 ![alt text](https://github.com/Upatel41/Conversion-Project/blob/main/Main%20Webpage.png)
 
