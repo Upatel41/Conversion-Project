@@ -1,0 +1,52 @@
+/* for body  */
+body{
+    margin: 0;
+    background-color: #8fdeeb;
+}
+
+/* container inside the body */
+.main-container {
+    text-align: center;
+    margin: 35vh 0;
+}
+/* For heading inside the main-container */
+.page-header {
+    font-family: fantasy;
+    letter-spacing: 5px;
+    font-size: 36pt;
+    margin-bottom: 10vh;
+}
+
+/* For buttons in the index page */
+.link {
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #7762eb;
+    color: white;
+    padding: 10px 15px;
+}
+
+.link:hover{
+    background-color:#4525f1;
+}
+
+
+/* input fields in the main container */
+.main-container>form>input{
+    border-radius: 30px 20px 20px 30px;
+    font-size: 15pt;
+    padding: 5px 15px;}
+
+/* Buttons in the main container */
+.main-container>form>button{
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #7762eb;
+    color: white;
+    font-size: 12pt;
+    padding: 5px 20px;
+}
+
+.main-container>form>button:hover{
+    background-color:#4525f1;
+}
