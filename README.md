@@ -10,7 +10,7 @@
 ![alt text](https://github.com/Upatel41/Conversion-Project/blob/main/Miles%20to%20Kilometers.png)
 
 # This is the webpage of the Kilometers to Miles page. For this picture I had entered the value 5 as well.
-![alt text]((https://github.com/Upatel41/Conversion-Project/blob/main/Kilometers%20to%20Miles%20Page.png)
+![alt text](https://github.com/Upatel41/Conversion-Project/blob/main/Kilometers%20to%20Miles%20Page.png)
 
 
 
